@@ -25,6 +25,6 @@ Retail (online transactions) – ties to revenue, inventory, and customer behavi
 See `analysis_report.pdf` for full details (Pareto products, CLV by frequency, cancellations, seasonality, country margins).
 
 ## Tools Used
-Python (Pandas/NumPy for cleaning; Matplotlib/Seaborn for visuals). AI assisted code (explainable).
+Python (Pandas/NumPy for cleaning; Matplotlib/Seaborn for visuals).
 
 Timeline: Completed in 2 days.
