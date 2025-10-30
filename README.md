@@ -26,5 +26,3 @@ See `analysis_report.pdf` for full details (Pareto products, CLV by frequency, c
 
 ## Tools Used
 Python (Pandas/NumPy for cleaning; Matplotlib/Seaborn for visuals).
-
-Timeline: Completed in 2 days.
